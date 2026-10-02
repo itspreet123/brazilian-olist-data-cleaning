@@ -72,8 +72,6 @@ Power BI dashboard development
 SQL analysis
 Tools Used
 Microsoft Excel
-SQL
-Python/Pandas (if applicable)
 GitHub
 Data Quality Checks
 
