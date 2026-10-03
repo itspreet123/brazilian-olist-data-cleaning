@@ -88,5 +88,4 @@ Conclusion
 
 The raw Olist dataset was cleaned and structured to improve data quality and make it suitable for further analysis. The cleaned datasets provide a consistent foundation for SQL queries, business analysis, and visualization.
 
-Author: Preeti
-Project: Data Cleaning Task
+
